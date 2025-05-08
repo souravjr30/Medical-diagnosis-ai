@@ -98,4 +98,11 @@ Traditional diagnosis methods are often:
 10. **Disease Output**  
     - Diagnosis displayed on Streamlit interface.
 
+![System Architecture](4.png)
+
+## 🎯 Sceenshots
+
+![Screenshot 2](1.png)
+![Sreenshot 1](2.png)
+
 ---
